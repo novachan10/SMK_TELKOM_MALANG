@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        table,th,td {
+            border: 1px solid #d4d0d0;
+            border-collapse: collapse;
+        }
+        th,td {
+            padding: 10px;
+        }
+    </style>
+    <link rel="stylesheet" href="a.css">
+</head>
+<body>
+    <div class="nav-container">
+        <div class="wrapper">
+            <nav>
+                <div class="logo">
+                    <img src="images/LogoTelkom-removebg-preview.png" height="50" width="50" />
+                </div>
+                <ul class="nav-items">
+                    <li>
+                        <a href= "home.html" >Home</a>
+                    </li> 
+                    <li>
+                        <a href= "Biodata.html" >Profile</a>
+                    </li>
+                    <li>
+                        <a href= "Kontak.html" >Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="container">
+        <div class="wrapper">
+            <header>
+                <div class="hero-content" style="font-size: 20px">
+                    <h1>
+                        <b>Tentang Manggis</b>
+                    </h1>
+                    <table border="200px" style="color: #d4d0d0;">
+                        <tr>
+                            <th>
+                                Deskripsi
+                            </th>
+                            <th>
+                                Buah Manggis
+                            </th>
+                        <tr>
+                            <td>
+                                Nama Buah
+                            </td>
+                            <td>
+                                Manggis
+                            </td>
+                        </tr>
+                        </tr>
+                            <td>
+                                Nama Latin
+                            </td>
+                            <td>
+                                Garciana Mangostana
+                            </td>
+                        <tr>
+                            <td>
+                                Persebaran
+                            </td>
+                            <td>
+                                Asia Tengara
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Karakteristik
+                            </td>
+                            <td>
+                                <p style="color: #d4d0d0">1. Pohonnya dapat tumbuh hingga 7-25 meter</p>
+                                <p style="color: #d4d0d0">2. Kulit buahnya berwarna merah keunguan</p>
+                                <p style="color: #d4d0d0">3. Daging buahnya berwarna putih kekuningan</p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="hero-image">
+                    <img src="images/Bucket.png" width="500px" alt="">
+                </div>
+            </header>
+        </div>
+    </div>
+    <script src="main.js"></script>
+    
+</body>
+<footer style="text-align: center"> &copy;Copyright TEFA SMK Telkom Malang Kelompok 10 @2022.
+</footer>
+</html>
