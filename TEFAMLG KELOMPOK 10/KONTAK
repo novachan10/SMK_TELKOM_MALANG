@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="a.css">
+</head>
+
+<body>
+    <div class="nav-container">
+        <div class="wrapper">
+            <nav>
+                <div class="logo">
+                    <img src="images/LogoTelkom-removebg-preview.png" height="50" width="50" />
+                </div>
+                <ul class="nav-items">
+                    <li>
+                        <a href="home.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="Biodata.html">Profile</a>
+                    </li>
+                    <li>
+                        <a href="Kontak.html">Contact</a>
+                    </li>
+                </ul>
+            </nav>  
+        </div>
+    </div>
+    <img src="images/buah.png" style="margin-left: 150px; margin-top: 10px;">
+    <div class="container">
+        <div>
+            <header>
+                <div class="hero-content" style="font-size: 20px; margin-left: 500px;">
+                    <h1>
+                        <b>Contact Form</b>
+                    </h1>
+                    <table style="color: #d4d0d0;">
+                        <tr>
+                            <th>
+                                Your Name <br>
+                            </th>
+                            <th>
+                                Email <br>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="text" name="nama" placeholder="">
+                            </td>
+                            <td>
+                                <input type="text" name="email" placeholder="">
+                            </td>
+                    </table>
+                    <p></p>
+                    <p style="color: #d4d0d0">
+                        <b>Message </b> <br>
+                        <textarea name="" cols="43" rows="5"></textarea>
+                    </p>
+                    <p></p>
+                    <button type="submit" name="Submit" style="width: 78px; height: 30px;text-align: justify;">
+                        <p style="margin-top: 1px;">Submit</p>
+                    </button>
+                    <button type="reset" name="Reset" style="width: 63px; height: 30px;text-align: justify;">
+                        <p style="margin-top: 1px;">Reset</p>
+                    </button>
+
+                </div>
+
+            </header>
+        </div>
+    </div>
+    <footer style="text-align: center">&copy;Copyright TEFA SMK Telkom Malang Kelompok 10 @2022.
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
