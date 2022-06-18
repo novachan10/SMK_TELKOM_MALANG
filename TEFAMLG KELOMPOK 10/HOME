@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serba-serbi Manggis</title>
+    <link rel="stylesheet" href="a.css">
+
+</head>
+
+<body>
+
+    <div class="nav-container">
+        <div class="wrapper">
+            <nav>
+                <div class="logo">
+                    <img src="images/LogoTelkom-removebg-preview.png" height="50" width="50" />
+                </div>
+                <ul class="nav-items">
+                    <li>
+                        <a href="home.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="Biodata.html">Profile</a>
+                    </li>
+                    <li>
+                        <a href="Kontak.html">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="header_container">
+        <div class="wrapper">
+            <header>
+                <div class="hero-content" >
+                    <h1>
+                        <b>Serba -serbi Manggis</b>
+                    </h1>
+                     <p style="color: #d4d0d0">
+                        Jika durian dijuluki sebagai “Raja Buah”, maka manggis bisa disebut sebagai “Ratu Buah”. Buah
+                        manggis adalah buah yang bisa ditemukan di daerah beriklim tropis khususnya Asia Tenggara,
+                        termasuk Indonesia. Buah ini banyak digemari karena rasanya yang unik, yakni masam dan manis
+                        namun menyegarkan.
+                    </p>
+                    <p style="color: #d4d0d0">
+                        Tentunya dengan segudang kandungan berkhasiat, manggis memiliki banyak manfaat apabila
+                        dikonsumsi asalkan tidak dikonsumsi secara berlebihan.
+                    </p>
+                    <p style="color: #d4d0d0">
+                        Berikut manfaat buah manggis untuk kesehatan :
+                    </p>
+                    <p style="color: #d4d0d0">1. Sumber anti oksidan sehingga dapat menangkal radikal bebas.</p>
+                    <p style="color: #d4d0d0">2. Kaya akan serat</p>
+                    <p style="color: #d4d0d0">3. Membantu penurunan berat badan</p>
+                    <p style="color: #d4d0d0">4. Meningkatkan daya tahan tubuh</p>
+                    <p style="color: #d4d0d0">5. Mencegah kanker</p>
+                </div>
+                <div class="hero-image">
+                    <img src="images/Manggis-removebg-preview.png" style="margin-top: 20px;" />
+                </div>
+            </header>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+<footer class="kaki" style="text-align: center;"> &copy;Copyright TEFA SMK Telkom Malang Kelompok 10 @2022.
+</footer>
+</html>
